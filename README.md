@@ -62,7 +62,3 @@ Once connected, you'll be able to inspect memory, analyze control flow, and expl
 - [Textual](https://github.com/Textualize/textual) & [Rich](https://github.com/Textualize/rich) – TUI for Python  
 - [Construct](https://github.com/construct/construct) – Declarative binary data parser  
 - [nest_asyncio](https://github.com/erdewit/nest_asyncio) – Async support for nested event loops
-
-## 🪪 License
-
-This project is **open source**. See [LICENSE](./LICENSE) for more details.
