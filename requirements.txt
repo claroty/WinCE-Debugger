@@ -1,0 +1,6 @@
+rich
+angr
+textual
+capstone
+construct
+nest_asyncio
